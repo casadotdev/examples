@@ -1,0 +1,5 @@
+{
+    "name": "hello-world",
+    "description": "get started building your casa with bun",
+    "cmd": "bun run index.ts"
+}

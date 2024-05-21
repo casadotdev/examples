@@ -1,0 +1,5 @@
+{
+    "name": "hello-world",
+    "description": "hello world with rust on casa",
+    "cmd": "cargo run --release"
+}
