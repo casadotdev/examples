@@ -1,7 +1,7 @@
 FROM busybox AS base
 
-LABEL author="ziglings.org"
-LABEL description="Minimal docker container for using the Zig toolchain for automated testing."
+# LABEL author="ziglings.org"
+# LABEL description="Minimal docker container for using the Zig toolchain for automated testing."
 
 ENV ZIG_VERSION=master
 ENV ZIG_PATH=/zig/${ZIG_VERSION}/files
