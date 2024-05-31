@@ -1,4 +1,0 @@
-{
-    "description": "why zag when you can zig?",
-    "cmd": "zig test src/main.zig"
-}
