@@ -1,3 +1,3 @@
 # examples
 
-Example code archive from Casa's first pilot product.
+Example codebases with workflows that you can run on Casa.
