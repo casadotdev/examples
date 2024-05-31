@@ -2,5 +2,5 @@
     "description": "do ml things on a schedule",
     "cmd": "pip install -q -r requirements.txt && python main.py",
     "schedule": "0 0 * * *",
-    "use_gpu": "any"
+    "gpu_type": "any"
 }
