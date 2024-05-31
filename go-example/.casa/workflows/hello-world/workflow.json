@@ -1,5 +1,0 @@
-{
-    "name": "hello-world",
-    "description": "notes notes notes",
-    "cmd": "go run main.go"
-}

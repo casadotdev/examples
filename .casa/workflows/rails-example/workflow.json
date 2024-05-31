@@ -1,0 +1,4 @@
+{
+    "description": "we can run rails things on casa",
+    "cmd": "rails test"
+}

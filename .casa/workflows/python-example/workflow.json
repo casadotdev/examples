@@ -1,7 +1,6 @@
 {
-    "name": "ml-things",
-    "description": "doing ml things on a schedule",
+    "description": "do ml things on a schedule",
     "cmd": "pip install -q -r requirements.txt && python main.py",
     "schedule": "0 0 * * *",
-    "use_gpu": "true"
+    "use_gpu": "any"
 }

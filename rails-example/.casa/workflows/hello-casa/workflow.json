@@ -1,5 +1,0 @@
-{
-    "name": "hello-casa",
-    "description": "that's cool we can run rails things on casa",
-    "cmd": "rake test"
-}

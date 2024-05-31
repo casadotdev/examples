@@ -1,0 +1,4 @@
+{
+    "description": "i'm rewriting politics in rust",
+    "cmd": "cargo run --release"
+}
