@@ -22,13 +22,15 @@
     git remote add casa https://casa.dev/$MY_TEAM_NAME/$MY_CODEBASE_NAME.git
     ```
 
+1. Grab your git username/password for your casa profile: https://casa.dev/profile (click "Generate API Token").
+
 1. Push up the code!
 
     ```sh
     git push casa main
     ```
 
-1. Run some workflows! Go to `https://casa.dev/_$MY_TEAM_NAME_/_$MY_CODEBASE_NAME_/main/workflows` and click "Sync" to create and run your workflows.
+1. Run some workflows! Go to `https://casa.dev/$MY_TEAM_NAME/$MY_CODEBASE_NAME/main/workflows` and click "Sync" to create and run your workflows.
 
 1. Write some docs, write some code, run some workflows to deploy stuff, train models, do inference, and more! 🔥
 
